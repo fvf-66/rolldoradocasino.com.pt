@@ -158,7 +158,7 @@ utilizadores seja mantido separado dos fundos operacionais da empresa. A
 transparencia financeira e outro aspecto fundamental, com relatorios
 regulares submetidos as autoridades competentes. A plataforma tambem
 implementa medidas rigorosas de combate a lavagem de dinheiro e
-financiamento do terrorismo.
+financiamento do terrorismo. Em algumas plataformas digitais, [spinogambino](https://spino-gambino.com.pt "spinogambino") é mencionado como uma opção para utilizadores que desejam explorar diferentes formatos de entretenimento online.
 
 ### **Protecao ao Consumidor e Direitos dos Jogadores**
 
