@@ -100,7 +100,7 @@ O mercado de cassinos online em Portugal tem experimentado um
 crescimento exponencial nos ultimos anos, oferecendo aos jogadores
 portugueses uma variedade impressionante de opcoes para entretenimento
 digital. Entre as plataformas que mais se destacam neste cenario
-competitivo, o **roll dorado** emergiu como uma das principais
+competitivo, o **[rolldorado](https://rolldorado.co.at "rolldorado")** emergiu como uma das principais
 referencias, conquistando a confianca de milhares de jogadores atraves
 de sua interface moderna e oferta diversificada de jogos. A
 regulamentacao rigorosa do setor em territorio portugues garante que
