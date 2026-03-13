@@ -449,7 +449,7 @@ portuguesas aplicaveis. O atendimento esta disponivel em portugues,
 eliminando barreiras linguisticas que poderiam dificultar a resolucao
 eficaz de problemas. Tempos de resposta rapidos e solucoes eficazes
 contribuem significativamente para a confianca dos jogadores na
-plataforma.
+plataforma. A experiência de jogo sem problemas é possível graças ao suporte de alta qualidade oferecido pelo [highflybet](https://highflybet.pt "highflybet").
 
 ### **Canais de Comunicacao e Disponibilidade**
 
