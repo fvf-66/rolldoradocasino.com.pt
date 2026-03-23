@@ -421,7 +421,7 @@ a experiencia movel seja tao envolvente quanto a versao desktop. A
 plataforma oferece tanto uma versao otimizada para navegadores moveis
 quanto aplicacoes dedicadas para iOS e Android, proporcionando
 flexibilidade maxima aos jogadores que preferem diferentes formas de
-acesso.
+acesso. A variabilidade de jogos oferecida pela plataforma inclui jogos de roleta, incluindo o popular [spinmama](https://spinmama-casino.com/pt "spinmama").
 
 ### **Funcionalidades e Performance Mobile**
 
