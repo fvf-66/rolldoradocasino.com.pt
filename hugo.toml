@@ -17,13 +17,12 @@ logo = "/images/logo.png"
 footerLogo = ""
 faviconPNG = "/images/favicon-32x32.png"
 playButtonText = "Jogar Agora"
-referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=rolldoradocasino.com.pt"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
-playPath = "try-now"
-tokenPath = "_1ef6a117"
-cookieName = "e7m"
-jsAsset = "aixjiy"
+playPath = "explore"
+tokenPath = "_ea3d9332"
+cookieName = "wte"
+jsAsset = "opxj45"
 
 [build]
 writeStats = true
